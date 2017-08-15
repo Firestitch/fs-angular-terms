@@ -1,0 +1,18 @@
+{
+    "name": "fs-angular-terms",
+    "description": "",
+    "main": [
+        "dist/terms.js",
+        "dist/terms.css"
+    ],
+    "dependencies": [],
+    "authors": [
+        "Firestitch Inc."
+    ],
+    "license": "MIT",
+    "ignore": [
+        "src",
+        ".gitignore"
+    ],
+    "private": false
+}
