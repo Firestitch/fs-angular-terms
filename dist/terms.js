@@ -9,7 +9,7 @@
             restrict: 'E',
             transclude: true,
             scope: {
-               	content: "@fsContent",
+               	content: "=fsContent",
                	label: "@fsLabel",
                	agree: "=?fsAgree",
                	agreeLabel: "@fsAgreeLabel"
